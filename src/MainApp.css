@@ -1,0 +1,11 @@
+.columnStyle {
+    display: "flex";
+    flex-direction: "column";
+    gap: "10px";
+  }
+  
+  .imageStyle {
+    width: "151px";
+    height:"100%"; /* Adjust the height as needed */
+    object-fit: "cover";
+  }
